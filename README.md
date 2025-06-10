@@ -51,3 +51,29 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em d
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNotNatan&layout=compact&theme=tokyonight)
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+![snake gif](https://github.com/ItsNotNatan/ItsNotNatan/blob/output/github-contribution-grid-snake.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItsNotNatan&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades como desenvolvedor backend ou DevOps, onde eu possa aplicar meus conhecimentos em automação, APIs e infraestrutura como código.
+
+## 🌱 Atualmente estou estudando
+
+- Docker e Kubernetes
+- Arquitetura de microsserviços
+- AWS com foco em DevOps
+
+### 💻 Projeto: Meu Portfólio
+
+![screenshot](https://user-images.githubusercontent.com/SeuID/projeto.png)
+
+Descrição: Site pessoal com design responsivo, construído com React e Tailwind CSS.
