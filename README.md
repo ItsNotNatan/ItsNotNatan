@@ -5,20 +5,21 @@
 Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em desenvolvimento web, automação e DevOps. Gosto de transformar ideias em soluções funcionais com foco em performance e boas práticas.
 
 
-<!--
-**ItsNotNatan/ItsNotNatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias e Ferramentas
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+
+- [🔗 MeuPortfólio](https://github.com/ItsNotNatan/meuportfolio): Um site pessoal responsivo construído com React e Tailwind CSS.
+- [💬 ChatApp](https://github.com/ItsNotNatan/chatapp): Aplicativo de chat em tempo real usando Socket.io e Node.js.
+- [📊 Dashboard DevOps](https://github.com/ItsNotNatan/devops-dashboard): Painel de monitoramento para pipelines de CI/CD usando Prometheus e Grafana.
 
 ## 📊 Estatísticas do GitHub
 
