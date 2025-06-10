@@ -25,6 +25,28 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em d
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsNotNatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
+## 📚 Certificações e Cursos
+
+- [Alura] Formação JavaScript Full Stack (2024)
+- [Rocketseat] Discover + Explorer (2023)
+- [AWS] Fundamentos de Cloud AWS (em andamento)
+
+
+## ✨ Curiosidades
+
+- 🔍 Gosto de resolver desafios no HackerRank e Codewars
+- 📖 Estudo sobre clean code e arquitetura de software
+- 🎮 Curto jogos cooperativos e desenvolvimento de games
+
+
+
+## 📈 Minhas Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsNotNatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNotNatan&layout=compact&theme=tokyonight)
+
+
 ## 🧠 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNotNatan&layout=compact&theme=tokyonight)
