@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 👋 Sobre mim
+
+Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em desenvolvimento web, automação e DevOps. Gosto de transformar ideias em soluções funcionais com foco em performance e boas práticas.
+
+
 <!--
 **ItsNotNatan/ItsNotNatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
