@@ -77,3 +77,7 @@ Busco oportunidades como desenvolvedor backend ou DevOps, onde eu possa aplicar 
 ![screenshot](https://user-images.githubusercontent.com/SeuID/projeto.png)
 
 Descrição: Site pessoal com design responsivo, construído com React e Tailwind CSS.
+
+![Profile views](https://komarev.com/ghpvc/?username=ItsNotNatan&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=ItsNotNatan&color=blue)
+
