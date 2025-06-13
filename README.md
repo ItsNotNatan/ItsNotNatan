@@ -124,5 +124,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=natan-santos)
+![Codewars](https://github.r2v.ch/codewars?user=ComandanteDoAcre)
+
 
