@@ -126,5 +126,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 [![Codewars](https://github.r2v.ch/codewars?user=ComandanteDoAcre)](https://www.codewars.com/users/ComandanteDoAcre)
 
+[![Codewars](https://img.shields.io/badge/Codewars-Profile-red?logo=codewars)](https://www.codewars.com/users/ComandanteDoAcre)
+
+
 
 
