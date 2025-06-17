@@ -128,7 +128,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 [![Codewars](https://img.shields.io/badge/Codewars-Profile-red?logo=codewars)](https://www.codewars.com/users/ComandanteDoAcre)
 
-![Minha imagem](./assets/Logo-Branco.png)
+![Logo Branco](./assets/Logo-Branco.png)
+
 
 
 
