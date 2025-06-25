@@ -129,7 +129,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 [![Codewars](https://img.shields.io/badge/Codewars-Profile-red?logo=codewars)](https://www.codewars.com/users/ComandanteDoAcre)
 
 ## Meus projetos
-<img src="https://github-readme-stats.vercel.app/api?username=ItsNotNatan&show_icons=true&theme=tokyonight" width="400"/>
+<img src="./projeto.png" width="400" />
 
 
 
