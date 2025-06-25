@@ -131,7 +131,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 ## Meus projetos
 <img src="./Logo-Branco.png" width="400" />
 
-<img src="./Frame 2.png" width="400" />
+<img src="./Frame 2.png" width="600" />
 
 
 
