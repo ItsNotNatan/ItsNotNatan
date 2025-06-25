@@ -133,7 +133,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <img src="./Frame 2.png" width="600" />
 
-<img src="./logoSafe-removebg-preview.png" width="600" />
+<img src="./logoSafe-removebg-preview.png" width="300" />
 
 
 
