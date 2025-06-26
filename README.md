@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=ItsNotNatan&color=blue)
 <h1 align="center">Hi 👋, I'm fdsaf</h1>
 
 ## 👋 Sobre mim
@@ -55,7 +56,6 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em d
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-![snake gif](https://github.com/ItsNotNatan/ItsNotNatan/blob/output/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItsNotNatan&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -77,8 +77,6 @@ Busco oportunidades como desenvolvedor backend ou DevOps, onde eu possa aplicar 
 ![screenshot](https://user-images.githubusercontent.com/SeuID/projeto.png)
 
 Descrição: Site pessoal com design responsivo, construído com React e Tailwind CSS.
-
-![Profile views](https://komarev.com/ghpvc/?username=ItsNotNatan&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natan-guimar%C3%A3es-dos-santos-231799268/)
 
