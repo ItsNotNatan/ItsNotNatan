@@ -5,6 +5,8 @@
 
 Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em desenvolvimento web, automação e DevOps. Gosto de transformar ideias em soluções funcionais com foco em performance e boas práticas.
 
+[![GitHub 3D Profile](https://github-profile-3d-contrib.vercel.app/api?username=SEU_USUARIO&theme=night-green)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
