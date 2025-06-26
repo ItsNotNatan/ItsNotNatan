@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ItsNotNatan&color=blue)
-<img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+<img src="https://komarev.com/ghpvc/?username=ItsNotNatan&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 <h1 align="center">Hi 👋, I'm fdsaf</h1>
 
 ## 👋 Sobre mim
