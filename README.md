@@ -141,11 +141,6 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em d
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 🚀 Projetos em Destaque
-
-- [🔗 MeuPortfólio](https://github.com/ItsNotNatan/meuportfolio): Um site pessoal responsivo construído com React e Tailwind CSS.
-- [💬 ChatApp](https://github.com/ItsNotNatan/chatapp): Aplicativo de chat em tempo real usando Socket.io e Node.js.
-- [📊 Dashboard DevOps](https://github.com/ItsNotNatan/devops-dashboard): Painel de monitoramento para pipelines de CI/CD usando Prometheus e Grafana.
 
 ## 📊 Estatísticas do GitHub
 
