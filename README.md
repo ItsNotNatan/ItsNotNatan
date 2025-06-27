@@ -258,11 +258,19 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 [![Codewars](https://img.shields.io/badge/Codewars-Profile-red?logo=codewars)](https://www.codewars.com/users/ComandanteDoAcre)
 
 ## Meus projetos
-<img align="center" src="./Logo-Branco.png" width="400" />
 
-<img align="center" src="./Frame 2.png" width="600" />
+<p align="center">
+  <img src="./Logo-Branco.png" width="400" />
+</p>
 
-<img align="center" src="./logoSafe-removebg-preview.png" width="300" />
+<p align="center">
+  <img src="./Frame 2.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="./logoSafe-removebg-preview.png" width="300" />
+</p>
+
 
 
 
