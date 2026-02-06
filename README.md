@@ -247,6 +247,72 @@ Descrição: Site pessoal com design responsivo, construído com React e Tailwin
 
 
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Excel Explicado</title>
+    <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
+</head>
+<body>
 
+    <input type="file" id="meuInputSecreto" accept=".xlsx, .xlsm" style="display: none;">
+
+    <button onclick="abrirSeletor()" style="padding: 10px 20px; font-size: 16px; cursor: pointer;">
+        📂 Clique aqui para Carregar Excel
+    </button>
+
+    <pre id="resultado" style="margin-top: 20px; background: #f0f0f0; padding: 10px;"></pre>
+
+    <script>
+        // --- PARTE A: Abrir o Explorador ---
+        function abrirSeletor() {
+            // Encontra o input escondido e clica nele
+            document.getElementById('meuInputSecreto').click();
+        }
+
+        // --- PARTE B: Detectar quando o arquivo foi escolhido ---
+        // Adicionamos um "ouvinte" que fica esperando a mudança (change) no input
+        document.getElementById('meuInputSecreto').addEventListener('change', function(evento) {
+            
+            // Pega o primeiro arquivo selecionado
+            const arquivo = evento.target.files[0];
+
+            if (arquivo) {
+                lerOArquivo(arquivo);
+            }
+        });
+
+        // --- PARTE C: Ler os dados do Excel ---
+        function lerOArquivo(arquivo) {
+            const leitor = new FileReader();
+
+            // Quando o leitor terminar de carregar o arquivo na memória...
+            leitor.onload = function(e) {
+                const dadosBinarios = e.target.result;
+
+                // 1. Usa a biblioteca XLSX para ler o binário
+                const workbook = XLSX.read(dadosBinarios, { type: 'array' });
+
+                // 2. Pega o nome da primeira aba da planilha
+                const nomePrimeiraAba = workbook.SheetNames[0];
+
+                // 3. Pega os dados dessa aba
+                const aba = workbook.Sheets[nomePrimeiraAba];
+
+                // 4. Converte os dados para JSON (formato fácil de usar)
+                const dadosJSON = XLSX.utils.sheet_to_json(aba);
+
+                // MOSTRAR NA TELA
+                console.log(dadosJSON); // Mostra no console (F12)
+                document.getElementById('resultado').innerText = JSON.stringify(dadosJSON, null, 2);
+            };
+
+            // Manda o leitor começar a ler como um Array de Bytes
+            leitor.readAsArrayBuffer(arquivo);
+        }
+    </script>
+</body>
+</html>
 
 
