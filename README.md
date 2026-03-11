@@ -139,7 +139,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em d
 
 
 ## 📊 Estatísticas do GitHub
-![3D Profile](./profile-3d-contrib/profile-green.svg)
+![3D Profile](./profile-3d-contrib/profile-night-green.svg)
 
 
 [![GitHub 3D Profile](https://github-profile-3d-contrib.vercel.app/api?username=ItsNotNatan&theme=night-green)](https://github.com/yoshi389111/github-profile-3d-contrib)
