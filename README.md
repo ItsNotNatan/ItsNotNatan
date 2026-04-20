@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=ItsNotNatan&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-<h1 align="center">Hi 👋, I'm fdsaf</h1>
+<h1 align="center">Hi 👋, I'm Natan</h1>
 
 ## 👋 Sobre mim
 
