@@ -145,7 +145,8 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em d
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsNotNatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNotNatan&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsNotNatan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" />
+
 ## 📚 Certificações e Cursos
 
 - [Alura] Formação JavaScript Full Stack (2024)
