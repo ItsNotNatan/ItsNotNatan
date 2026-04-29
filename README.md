@@ -141,12 +141,11 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em d
 ## 📊 Estatísticas do GitHub
 ![3D Profile](./profile-3d-contrib/profile-night-green.svg)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ItsNotNatan&theme=dark&border_radius=5)](https://git.io/streak-stats)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsNotNatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNotNatan&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
 ## 📚 Certificações e Cursos
 
 - [Alura] Formação JavaScript Full Stack (2024)
