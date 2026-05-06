@@ -101,18 +101,7 @@ Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e autom
 
 ## 📈 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsNotNatan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItsNotNatan&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 🎯 Objetivo Profissional
 
