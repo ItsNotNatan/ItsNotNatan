@@ -3,7 +3,7 @@
 
 ## 👋 Sobre mim
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência em desenvolvimento web, automação e DevOps. Gosto de transformar ideias em soluções funcionais com foco em performance e boas práticas.
+Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e automação de processos. Gosto de transformar ideias em soluções funcionais com foco em performance e boas práticas.
 
 
 ## 🛠️ Tecnologias e Ferramentas
