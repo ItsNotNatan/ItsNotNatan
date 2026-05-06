@@ -83,7 +83,7 @@ Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e autom
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ItsNotNatan&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsNotNatan&theme=default&custom_title=ItsNotNatan%20Activity%20Graph&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItsNotNatan&show_icons=true&theme=transparent" />
 
 
 ## 📚 Certificações e Cursos
