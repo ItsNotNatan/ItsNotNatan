@@ -74,6 +74,10 @@ Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e autom
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
   </tr>
 </table>
 
