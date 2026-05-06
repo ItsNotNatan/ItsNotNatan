@@ -159,7 +159,6 @@ Descrição: Site pessoal com design responsivo, construído com React e Tailwin
 
 [![Codewars](https://github.r2v.ch/codewars?user=ComandanteDoAcre)](https://www.codewars.com/users/ComandanteDoAcre)
 
-[![Codewars](https://img.shields.io/badge/Codewars-Profile-red?logo=codewars)](https://www.codewars.com/users/ComandanteDoAcre)
 
 ## Meus projetos
 
