@@ -83,7 +83,7 @@ Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e autom
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ItsNotNatan&theme=dark&border_radius=5)](https://git.io/streak-stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsNotNatan&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 ## 📚 Certificações e Cursos
