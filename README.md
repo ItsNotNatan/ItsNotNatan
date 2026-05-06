@@ -89,7 +89,7 @@ Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e autom
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItsNotNatan&show_icons=true&theme=transparent" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsNotNatan)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de ItsNotNatan](https://github-readme-stats.vercel.app/api?username=ItsNotNatan&theme=dark&show_icons=true)](https://github.com/ItsNotNatan)
 
 ## 📚 Certificações e Cursos
 
