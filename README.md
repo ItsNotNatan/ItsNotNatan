@@ -6,8 +6,7 @@
 Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e automação de processos. Gosto de transformar ideias em soluções funcionais com foco em performance e boas práticas.
 
 
-## 🛠️ Tecnologias e Ferramentas
-## My favorite tools and technologies ⚙️
+## 🛠️ My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
