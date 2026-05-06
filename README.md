@@ -99,10 +99,6 @@ Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e autom
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
   </tr>
  <tr>
  </tr>
