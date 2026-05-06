@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=ItsNotNatan&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 <h1 align="center">Hi 👋, I'm Natan</h1>
 
-## 👋 Sobre mim
+## 👋 About me
 
 Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, e automação de processos. Gosto de transformar ideias em soluções funcionais com foco em performance e boas práticas.
 
